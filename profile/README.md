@@ -1,16 +1,17 @@
 # IPO 2026-27 · Grupo Dinamarca
 
-Prácticas de la asignatura Interacción Persona-Ordenador
-(Ingeniería Informática, Universidad de Sevilla).
+Prácticas de la asignatura Interacción Persona-Ordenador (Ingeniería Informática, Universidad de Sevilla). Cada práctica es un repositorio independiente y se desarrolla en HTML, CSS y JavaScript nativos.
 
-## Proyectos
+## Prácticas
 
-| Práctica | Descripción | Tecnologías |
-|----------|-------------|-------------|
-| [Sonetos](https://github.com/IPO-2627-Dinamarca/ipo2627_dinamarca_sonetos) | Lector de sonetos del Siglo de Oro español con índice, navegación por teclado y ajuste del tamaño de texto | JavaScript |
-| [Arcade](https://github.com/IPO-2627-Dinamarca/ipo2627_dinamarca_arcade) | | JavaScript |
-| [Tablero](https://github.com/IPO-2627-Dinamarca/ipo2627_dinamarca_tablero) | Juego de fichas en el que hay que dejar cada fila del tablero con un solo tipo, moviendo piezas con ratón, toque o teclado | JavaScript |
+| Práctica | Qué hace |
+|----------|----------|
+| [Sonetos](https://github.com/IPO-2627-Dinamarca/ipo2627_dinamarca_sonetos) | Lector de sonetos del Siglo de Oro con índice, navegación por teclado y ajuste del tamaño de texto |
+| [Tablero](https://github.com/IPO-2627-Dinamarca/ipo2627_dinamarca_tablero) | Juego de fichas en el que cada fila debe acabar con un solo tipo, moviendo piezas arrastrando, con clic o con teclado |
+| [Mecanografía](https://github.com/IPO-2627-Dinamarca/ipo2627_dinamarca_mecanografia) | Test de velocidad: se escribe la palabra que aparece y se miden palabras por minuto y precisión |
+| [Arcade](https://github.com/IPO-2627-Dinamarca/ipo2627_dinamarca_arcade) | En preparación |
 
 ## Equipo
-- Miguel Ridao — [@Ridawo](https://github.com/Ridawo)
-- Pablo Aguza — [@aguzajr](https://github.com/aguzajr)
+
+- Miguel Ridao: [@Ridawo](https://github.com/Ridawo)
+- Pablo Aguza: [@aguzajr](https://github.com/aguzajr)
